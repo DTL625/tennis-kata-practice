@@ -1,1 +1,1 @@
-# tennis-kata-for-iMarts
+# tennis-kata
